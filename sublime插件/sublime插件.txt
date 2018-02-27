@@ -1,0 +1,2 @@
+https://github.com/tc-h5/tc-weapp-snippets
+下载之后点开sublime点击首选项-浏览插件打开文件夹在Users文件夹下放入解压的tc-weapp-snippets-master文件夹即可实现跨屏调试代码
